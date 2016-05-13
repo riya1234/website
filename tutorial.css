@@ -42,7 +42,7 @@ body {
             background:#d65bff;
             font-size:16px;
             font-weight:600;
-            color:#4c4c4c;
+            color:#5dffe8;
             transition:all linear 0.15s;
         }
  
@@ -54,7 +54,7 @@ body {
  
     li.active a, li.active a:hover {
         background:#fff;
-        color:#4c4c4c;
+        color:#5dffe8;
     }
  
  
